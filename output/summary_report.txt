@@ -1,0 +1,6 @@
+Application: Token Analyzer Application
+Author: Yonas Haile
+email: yhaile@madisoncollege.edu
+Input file: C:\Users\yhaile\Desktop\MY_SERVER__INFO_DIR\pdfWebsiteInfo.txt
+Analyzed on: Sun Nov 23 12:42:30 CST 2014
+Total token count: 357
